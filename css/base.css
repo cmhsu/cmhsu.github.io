@@ -1,0 +1,58 @@
+body {
+    padding-top: 70px;
+    background-image: url("https://cloud.githubusercontent.com/assets/7455517/5405033/55090bda-8154-11e4-9492-8c1bb805d602.jpg");
+}
+
+.display-none {
+    display: none;
+}
+
+.display-block {
+    display: block;
+    color: red;
+}
+
+#question {
+    font-size: 22px;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 618px;
+}
+
+.trans-box {
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.8;
+    filter: alpha(opacity=80); /* For IE8 and earlier */
+    padding: 10px 35px 35px 35px;
+    height: 492px;
+}
+
+.navbar {
+    opacity: .8;
+    filter: alpha(opacity=80); /* For IE8 and earlier */
+}
+
+input[name="choices"] {
+    margin-right: 3px;
+}
+
+#changeUser {
+    margin-bottom: 15px;
+}
+
+#score-display {
+    margin-top: 20px;
+}
+
+div label {
+    font-size: 15px;
+}
+
+a:focus, a:active {
+    border: 0;
+    outline : 0;
+}
