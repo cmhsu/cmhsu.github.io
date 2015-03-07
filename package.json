@@ -1,0 +1,178 @@
+[
+  {	"id": 1, "qnum": 1,
+    "question": "Who originally developed Javascript?",
+    "answer1": "Douglas Crockford",
+    "answer2": "Brendan Eich",
+    "answer3": "Ryan Dahl",
+    "answer4": "Jeremy Ashkenas",
+    "correctAnswer": 1
+  },
+  {
+    "id": 2, "qnum": 2,
+    "question": "What was the very first original name of Javascript?",
+    "answer1": "LiveScript",
+    "answer2": "ECMAScript",
+    "answer3": "CoffeeScript",
+    "answer4": "Mocha",
+    "correctAnswer": 3
+  },
+  {
+    "id": 3, "qnum": 3,
+    "question": "Which one of these is not known as a Javascript framework?",
+    "answer1": "Meteor",
+    "answer2": "Angular",
+    "answer3": "Backbone",
+    "answer4": "Django",
+    "correctAnswer": 3
+  },
+  {
+    "id": 4, "qnum": 4,
+    "question": "Javascript was originally influenced by all of the following except which language?",
+    "answer1": "Python",
+    "answer2": "Java",
+    "answer3": "Ruby",
+    "answer4": "C",
+    "correctAnswer": 2
+  },
+  {
+    "id": 5, "qnum": 5,
+    "question": "Fill in the blank: Javascript is currently the ____ language on Github.",
+    "answer1": "most-used",
+    "answer2": "second most-used",
+    "answer3": "third most-used",
+    "answer4": "fourth most-used",
+    "correctAnswer": 0
+  },
+  {	"id": 6, "qnum": 1,
+    "question": "Who has the most triple doubles in NBA history?",
+    "answer1": "Magic Johnson",
+    "answer2": "Jason Kidd",
+    "answer3": "Oscar Robertson",
+    "answer4": "Wilt Chamberlain",
+    "correctAnswer": 2
+  },
+  {
+    "id": 7, "qnum": 2,
+    "question": "Who has scored the most total points in NBA history?",
+    "answer1": "Kobe Bryant",
+    "answer2": "Kareem Abdul-Jabbar",
+    "answer3": "Karl Malone",
+    "answer4": "Michael Jordan",
+    "correctAnswer": 1
+  },
+  {
+    "id": 8, "qnum": 3,
+    "question": "Who has the most total assists in NBA history?",
+    "answer1": "Steve Nash",
+    "answer2": "John Stockton",
+    "answer3": "Jason Kidd",
+    "answer4": "Mark Jackson",
+    "correctAnswer": 1
+  },
+  {
+    "id": 9, "qnum": 4,
+    "question": "Who has the most total rebounds in NBA history?",
+    "answer1": "Elvin Hayes",
+    "answer2": "Kareem Abdul-Jabbar",
+    "answer3": "Bill Russell",
+    "answer4": "Wilt Chamberlain",
+    "correctAnswer": 3
+  },
+  {
+    "id": 10, "qnum": 5,
+    "question": "Which organization has won the most NBA championships?",
+    "answer1": "San Antonio Spurs",
+    "answer2": "Chicago Bulls",
+    "answer3": "Boston Celtics",
+    "answer4": "Los Angeles Lakers",
+    "correctAnswer": 2
+  },
+  {	"id": 11, "qnum": 1,
+    "question": "Which American football team has won the most championships?",
+    "answer1": "Green Bay Packers",
+    "answer2": "San Francisco 49ers",
+    "answer3": "Chicago Bears",
+    "answer4": "New York Giants",
+    "correctAnswer": 0
+  },
+  {
+    "id": 12, "qnum": 2,
+    "question": "Which quarterback holds the record for most career passing yards?",
+    "answer1": "Dan Marino",
+    "answer2": "Peyton Manning",
+    "answer3": "Tom Brady",
+    "answer4": "Brett Favre",
+    "correctAnswer": 3
+  },
+  {
+    "id": 13, "qnum": 3,
+    "question": "Which player holds the record for most career rushing yards?",
+    "answer1": "Barry Sanders",
+    "answer2": "Emmitt Smith",
+    "answer3": "Walter Payton",
+    "answer4": "LaDainian Tomlinson",
+    "correctAnswer": 1
+  },
+  {
+    "id": 14, "qnum": 4,
+    "question": "Which quarterback holds the record for the most passing yards in a single season?",
+    "answer1": "Drew Brees",
+    "answer2": "Tom Brady",
+    "answer3": "Dan Marino",
+    "answer4": "Peyton Manning",
+    "correctAnswer": 3
+  },
+  {
+    "id": 15, "qnum": 5,
+    "question": "Who is the head coach of the San Francisco 49ers?",
+    "answer1": "Pete Caroll",
+    "answer2": "Steve Kerr",
+    "answer3": "Jim Harbaugh",
+    "answer4": "Tony Sparano",
+    "correctAnswer": 2
+  },
+  {	"id": 16, "qnum": 1,
+    "question": "Which of the following was not invented in the United States?",
+    "answer1": "light bulb",
+    "answer2": "gunpowder",
+    "answer3": "washing machine",
+    "answer4": "telephone",
+    "correctAnswer": 1
+  },
+  {
+    "id": 17, "qnum": 2,
+    "question": "Which of the following is not one of the three main branches of the United States government?",
+    "answer1": "judicial",
+    "answer2": "legislative",
+    "answer3": "executive",
+    "answer4": "senate",
+    "correctAnswer": 3
+  },
+  {
+    "id": 18, "qnum": 3,
+    "question": "How many states are there?",
+    "answer1": "48",
+    "answer2": "50",
+    "answer3": "52",
+    "answer4": "54",
+    "correctAnswer": 1
+  },
+  {
+    "id": 19, "qnum": 4,
+    "question": "Which person has never been Vice President of the United States?",
+    "answer1": "George H.W. Bush",
+    "answer2": "Bill Clinton",
+    "answer3": "Al Gore",
+    "answer4": "Dan Quayle",
+    "correctAnswer": 1
+  },
+  {
+    "id": 20, "qnum": 5,
+    "question": "Which person has never been President of the United States?",
+    "answer1": "John Adams",
+    "answer2": "James Madison",
+    "answer3": "Benjamin Franklin",
+    "answer4": "Andrew Jackson",
+    "correctAnswer": 2
+  }
+]
